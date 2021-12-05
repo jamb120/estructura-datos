@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <TodoListItem /> debe de mostrarse correctamente 1`] = `
+<div
+  className="d-flex justify-content-between mb-2"
+>
+  <li
+    className="list-group-item w-100 false"
+    onClick={[Function]}
+  >
+    1
+    . 
+    Aprender React
+  </li>
+  <button
+    className="btn btn-danger"
+    onClick={[Function]}
+  >
+    Borrar
+  </button>
+</div>
+`;
